@@ -1,0 +1,14 @@
+﻿body {
+}
+
+nav.navbar {
+    background-color: gray;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+nav a {
+    color: white;
+}
+
