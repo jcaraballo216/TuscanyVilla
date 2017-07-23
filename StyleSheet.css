@@ -48,3 +48,21 @@ nav a {
     margin-bottom: 0px;
     margin-top: 0px;
 }
+
+/*Location styling*/
+
+div.caption.col-md-9 {
+    padding-left: 50px;
+    padding-top: 50px;
+    text-align:left;
+    padding-right:0px;
+}
+a.btn{
+    background-color: blue;
+    color: ghostwhite;
+    border:solid
+}
+div.col-md-3 {
+ padding-top:50px;
+ padding-right:0px;
+}
