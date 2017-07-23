@@ -28,3 +28,23 @@ nav a {
     background-image: url('images/tuscany-villas-sant-anna.jpg');
     background-size:cover;
 }
+.spot {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    background-color: gray;
+    color: ghostwhite;
+    font-size:large;
+    text-align: center
+}
+
+#local {
+    margin-bottom: 0px;
+    margin-top: 0px;
+
+}
+
+#localOne {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
