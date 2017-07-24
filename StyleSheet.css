@@ -62,7 +62,8 @@ a.btn{
     color: ghostwhite;
     border:solid
 }
-div.col-md-3 {
+div.location col-md-3 {
  padding-top:50px;
  padding-right:0px;
 }
+
